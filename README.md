@@ -1,6 +1,7 @@
 # Toy Compiler Project
+> Compiler Written in Flex and Bison
 
-## Group Members:
+## Contributors:
 
 * Adam VanRiper  
 * Nandan Vinjamury  
